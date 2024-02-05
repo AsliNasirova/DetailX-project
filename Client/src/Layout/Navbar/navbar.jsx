@@ -10,6 +10,10 @@ const Navbar = () => {
   return (
     <nav>
     <div className='navbar'>
+      <div className="imageNav">
+        <img src="//detailx.ancorathemes.com/wp-content/uploads/2023/08/logo-retina.png 2x" alt="" />
+      </div>
+      
         <ul className='switchNav'>
             <li><NavLink to={'/home'}>Home</NavLink></li>
             <li><NavLink to={'/pages'}>Pages</NavLink></li>
