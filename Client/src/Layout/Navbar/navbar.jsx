@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav>
     <div className='navbar'>
       <div className="imageNav">
-        <img src="//detailx.ancorathemes.com/wp-content/uploads/2023/08/logo-retina.png 2x" alt="" />
+        <img src="" alt="" />
       </div>
       
         <ul className='switchNav'>
