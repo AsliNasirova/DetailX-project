@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav>
     <div className='navbar'>
       <div className="imageNav">
-        <img src="" alt="" />
+        {/* <img src="" alt="" /> */}
       </div>
       
         <ul className='switchNav'>
