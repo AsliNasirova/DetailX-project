@@ -26,6 +26,7 @@ const Navbar = () => {
             
             
         </ul>
+        <div className='navbtn'><button className='navbtnn'>GET A QUOTA</button></div>
     </div>
     </nav>
   )
