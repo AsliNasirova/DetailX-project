@@ -4,6 +4,7 @@ const What = () => {
   return (
     <section id='WhatWe'>
     <div className='whatWE'>
+      <div></div>
 
     </div>
     </section>
