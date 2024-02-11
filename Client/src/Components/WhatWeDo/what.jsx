@@ -5,6 +5,7 @@ const What = () => {
     <section id='WhatWe'>
     <div className='whatWE'>
       <div></div>
+      <div></div>
 
     </div>
     </section>
