@@ -1,4 +1,5 @@
 import React from 'react'
+import './what.scss'
 
 const What = () => {
   return (
